@@ -31,9 +31,7 @@ form = """
             Rotation amount:
             <input type="text" name="rot" value="0" />
         </label>
-        <textarea name="text">
-        {0}
-        </textarea>
+        <textarea name="text">{0}</textarea>
         <input type="submit" value="Submit Request" />
       </form>
     </body>
